@@ -20,11 +20,14 @@ The architecture of this project includes:
 To install this project, you need to:
 
 1. Clone the repository: ```bash 
- clone https://github.com/ahmedalaa14/Terraform-network-aws ```
+ clone https://github.com/ahmedalaa14/Terraform-network-aws 
+ ```
 2. Navigate to the project directory: ```bash 
-cd Terraform-network-aws ```
+cd Terraform-network-aws 
+```
 3. Initialize Terraform: ```bash 
-terraform init ```
+terraform init 
+```
 
 ## Usage
 
