@@ -1,4 +1,4 @@
-## Terraform-AWS-Network
+## Terraform-Network-AWS
 This project uses Terraform to provision a robust network infrastructure on AWS. 
 
 
