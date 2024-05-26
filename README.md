@@ -16,7 +16,7 @@ The architecture of this project includes:
   - NAT Gateway
 
 ## Prerequisites
-- Before you begin, ensure you have the following installed:
+- Before you begin, ensure you have the following installed :
 
 - Terraform
 - AWS CLI
