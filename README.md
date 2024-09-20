@@ -1,10 +1,10 @@
 ## Terraform Network AWS
-- This project uses Terraform to provision a robust network infrastructure on AWS. 
+- This project uses Terraform to provide a robust network infrastructure for AWS. 
 
 
 ## Architecture
 
-The architecture of this project includes:
+The architecture of this project includes :
 
 - A VPC with a default Network ACL
 - Subnets:
