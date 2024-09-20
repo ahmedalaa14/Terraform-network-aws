@@ -31,7 +31,7 @@ To install this project, you need to:
 
 1. Clone the repository: 
 ```bash 
- clone https://github.com/ahmedalaa14/Terraform-network-aws 
+ git clone https://github.com/ahmedalaa14/Terraform-network-aws 
  ```
 2. Navigate to the project directory: 
 ```bash 
