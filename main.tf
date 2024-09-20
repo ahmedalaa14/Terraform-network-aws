@@ -1,5 +1,5 @@
 module "network" {
-  source                = "./modules/network"
+  source                = "./network"
   cidr                  = var.cidr
   public_subnet_1_cidr  = var.public_subnet_1_cidr
   public_subnet_2_cidr  = var.public_subnet_2_cidr
